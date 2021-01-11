@@ -1,6 +1,7 @@
 # Kitty Scroll
 
 ![kitty](https://user-images.githubusercontent.com/5785323/81567028-12c34a80-93df-11ea-89b3-4b401aa7cfe6.png)
+![Kitty scrolling through a web page as the user strokes its back](https://github.com/ronCYA/kittyScroll/blob/master/kittyScroll.gif?raw=true)
 
 You want it, you got it— stroke a kitty to scroll through any web page 🐈🤚
 
