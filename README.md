@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/5785323/81567028-12c34a80-93df-11ea-89b3-4b401aa7cfe6.png" alt="black kitty">
   <img width="50px" src="https://raw.githubusercontent.com/hiloki/spacer/master/spacer.gif" aria-hidden="true">
-  <img src="https://github.com/ronvoluted/kittyScroll/blob/master/kittyScroll.gif?raw=true" alt="Kitty scrolling through a web page as the user strokes its back"> 
+  <img src="https://raw.githubusercontent.com/ronvoluted/kittyScroll/main/kittyScroll.gif" alt="Kitty scrolling through a web page as the user strokes its back"> 
 </div>
 
 You want it, you got it— stroke a kitty to scroll through any web page 🐈🤚
