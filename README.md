@@ -10,7 +10,7 @@ You want it, you got it— stroke a kitty to scroll through any web page 🐈�
 
 ## Bookmarklet usage: Add kitty to sites you visit!
 
-1. Copy the entirety of the contents of [bookmarklet.js](https://raw.githubusercontent.com/ronvoluted/kittyscroll/master/bookmarklet.js)
+1. Copy the entirety of the contents of [bookmarklet.js](https://raw.githubusercontent.com/ronvoluted/kittyscroll/master/build/bookmarklet.js)
 2. Create/edit any bookmark in your browser and paste the contents you copied into the URL field
 3. Hit that bookmark any time you want to stroke the kitty on a website!
 
